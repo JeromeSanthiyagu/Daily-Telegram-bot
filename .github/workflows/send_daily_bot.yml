@@ -23,4 +23,4 @@ jobs:
           pip install requests
 
       - name: Run the Bot Script
-        run: python daily_bot.py
+        run: script.py
