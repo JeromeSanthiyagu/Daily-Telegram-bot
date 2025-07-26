@@ -3,9 +3,9 @@ import requests
 from datetime import datetime
 
 # === CONFIG ===
-BOT_TOKEN = os.environ['BOT_TOKEN']
-USER_ID = os.environ['USER_ID']
-NEWS_API_KEY = os.environ['NEWS_API_KEY']
+BOT_TOKEN = "8379036999:AAGX2bAndGre0Z4nc1ysE79-XXU5tK2-ZFg"
+USER_ID = "1702396189"
+NEWS_API_KEY = "1576948dc78a4edb8441d1d189a6517a"
 
 # === 1. Fetch Tech News ===
 def get_tech_news():
