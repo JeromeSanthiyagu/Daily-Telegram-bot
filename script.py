@@ -1,6 +1,7 @@
 import os
 import requests
 from datetime import datetime
+import random
 
 # === CONFIG ===
 BOT_TOKEN = "8379036999:AAGX2bAndGre0Z4nc1ysE79-XXU5tK2-ZFg"
